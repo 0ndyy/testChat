@@ -7,7 +7,8 @@ const ChatApp = () => {
 
   useEffect(() => {
     // Connect to the WebSocket server
-    ws.current = new WebSocket('ws://172.27.224.1:8080');
+    ws.current = new WebSocket('wss://your-app.onrender.com');
+
 
     ws.current.onmessage = (event) => {
       // Check the type of event.data
