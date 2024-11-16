@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/0ndyy/testChat.git/static/css/main.e6c13ad2.css",
-    "main.js": "/0ndyy/testChat.git/static/js/main.8438ed87.js",
-    "static/js/453.8ab44547.chunk.js": "/0ndyy/testChat.git/static/js/453.8ab44547.chunk.js",
-    "index.html": "/0ndyy/testChat.git/index.html",
-    "main.e6c13ad2.css.map": "/0ndyy/testChat.git/static/css/main.e6c13ad2.css.map",
-    "main.8438ed87.js.map": "/0ndyy/testChat.git/static/js/main.8438ed87.js.map",
-    "453.8ab44547.chunk.js.map": "/0ndyy/testChat.git/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/testChat/static/css/main.e6c13ad2.css",
+    "main.js": "/testChat/static/js/main.f639d31a.js",
+    "static/js/453.8ab44547.chunk.js": "/testChat/static/js/453.8ab44547.chunk.js",
+    "index.html": "/testChat/index.html",
+    "main.e6c13ad2.css.map": "/testChat/static/css/main.e6c13ad2.css.map",
+    "main.f639d31a.js.map": "/testChat/static/js/main.f639d31a.js.map",
+    "453.8ab44547.chunk.js.map": "/testChat/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8438ed87.js"
+    "static/js/main.f639d31a.js"
   ]
 }
